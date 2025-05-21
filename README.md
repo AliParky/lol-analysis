@@ -1,6 +1,6 @@
 # lol-analysis
 
-A simple project for analyzing League of Legends data.
+A simple project for analyzing League of Legends data using the Riot Games API.
 
 ## Features
 
