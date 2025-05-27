@@ -6,6 +6,10 @@ A simple project for analyzing League of Legends data using the Riot Games API.
 
 - Fetch summoner information by name
 
+## Configuration
+
+- Update the API key and region in the notebook as needed.
+
 ## Requirements
 
 The following Python libraries are required to run the analysis:
