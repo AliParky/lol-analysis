@@ -15,3 +15,7 @@ A simple project for analyzing League of Legends data using the Riot Games API.
 
 The following Python libraries are required to run the analysis:
 - requests
+
+## Installation
+
+1. Clone the repository
