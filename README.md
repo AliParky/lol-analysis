@@ -19,3 +19,4 @@ The following Python libraries are required to run the analysis:
 ## Installation
 
 1. Clone the repository
+2. Install dependencies
