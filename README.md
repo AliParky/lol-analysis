@@ -19,4 +19,5 @@ The following Python libraries are required to run the analysis:
 ## Installation
 
 1. Clone the repository
+`git clone https://github.com/AliParky/lol-analysis`
 2. Install dependencies
