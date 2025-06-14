@@ -6,6 +6,7 @@ A simple project for analyzing League of Legends data using the Riot Games API.
 
 - Fetch summoner information by name
 - Retrieve recent match history
+- Basic setup for further data analysis
 
 ## Configuration
 
