@@ -23,3 +23,4 @@ The following Python libraries are required to run the analysis:
 `git clone https://github.com/AliParky/lol-analysis`
 2. Install dependencies
 `pip install requests`
+3. Set your Riot API key
