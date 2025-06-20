@@ -24,3 +24,4 @@ The following Python libraries are required to run the analysis:
 2. Install dependencies
 `pip install requests`
 3. Set your Riot API key
+4. Run the notebook
