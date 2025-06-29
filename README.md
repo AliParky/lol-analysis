@@ -27,3 +27,4 @@ The following Python libraries are required to run the analysis:
 - Open `lol_analysis.ipynb`
 - Replace `'your_api_key_here'` with your actual Riot API key
 4. Run the notebook
+- Follow the cells to fetch and analyze data
